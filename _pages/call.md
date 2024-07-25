@@ -26,8 +26,8 @@ We are seeking submissions in topics including, but not limited to:
 
 ## Important Dates
 
-- Submission deadline: August 30th 2024, AoE
-- Acceptance notification: September 30, 2024, AoE
+- Submission deadline: August 23rd 2024, AoE
+- Acceptance notification: September 23rd, 2024, AoE
 - Workshop date: December 14 or December 15, 2024
 
 ## Submission Details
