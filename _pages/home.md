@@ -39,7 +39,7 @@ We are seeking submissions in topics including, but not limited to:
     {% include people.liquid name="Daniel Worrall" affiliation="Google DeepMind" url="https://danielewworrall.github.io/" img="/assets/img/speakers/daniel.jpg" %}
     </div>
     <div class="col-sm-4">
-    {% include people.liquid name="Ilze Amanda Auzina" affiliation="Univerity of Amsterdam" url="https://ilzeamandaa.github.io/" img="/assets/img/speakers/ilze.jpg" %}
+    {% include people.liquid name="Ilze Amanda Auzina" affiliation="Univerity of Amsterdam, University of Tübingen" url="https://ilzeamandaa.github.io/" img="/assets/img/speakers/ilze.jpg" %}
     </div>
     <div class="w-100"></div>
     <div class="col-sm-4">
