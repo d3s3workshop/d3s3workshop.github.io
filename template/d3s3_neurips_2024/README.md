@@ -1,6 +1,6 @@
 ## LaTeX template for D3S3@NeurIPS 2024
 
-Official template for NeurIPS 2024 workshop
+Official template for NeurIPS 2024 workshop:    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**D3S3: Data-driven and Differentiable Simulations, Surrogates, and Solvers**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://d3s3workshop.github.io/
 
