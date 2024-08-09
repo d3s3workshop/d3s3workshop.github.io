@@ -27,6 +27,10 @@ We are seeking submissions in topics including, but not limited to:
   - Generative modelling for simulation (e.g., biomolecule structure synthesis, material generation, image generation for autonomous vehicles)
   - Datasets, gyms, and simulation softwares
 
+#### News and Updates
+- 2024-Aug-08: We are [looking for](/involved) reviewers.
+- 2024-Aug-08: Submission details added to [call for papers](/call)
+
 ---
 
 ## Confirmed Speakers
