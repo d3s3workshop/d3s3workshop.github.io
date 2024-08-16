@@ -6,3 +6,6 @@ Official template for NeurIPS 2024 workshop:
 
  * Style file: `d3s3_neurips_2024.sty` (NeurIPS 2024 style, with edited footnote on first page)
  * Example pdf: `d3s3_neurips_2024.pdf`
+
+ Revisions:
+ * 2024-Aug-16: Indicating that checklist is optional.
