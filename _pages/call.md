@@ -26,9 +26,11 @@ We are seeking submissions in topics including, but not limited to:
 
 ## Important Dates
 
-- Submission deadline: August 23 2024, AoE
-- Acceptance notification: September 23, 2024, AoE
+- Submission deadline: ~~August 23~~ August 30 2024, AoE
+- Acceptance notification: ~~September 23~~ September 30, 2024, AoE [^1]
 - Workshop date: December 14 or December 15, 2024
+
+[^1]: Please let us know asap if your attendance at NeurIPS depends on your submission's acceptance decision (e.g., you need to apply for a visa).
 
 ## Submission Details
 
