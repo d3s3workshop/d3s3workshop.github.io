@@ -9,6 +9,9 @@ nav_order: 3
 
 # Schedule
 
+**Date**: 15<sup>th</sup> December 2024   
+**Location**: Meeting 116, 117
+
 The workshop will be held in person at NeurIPS 2024 at the Vancouver Convention Center.
 The schedule is currently tentative and will become clear over time.
 All times are in local time zone, Pacific Time (PT).

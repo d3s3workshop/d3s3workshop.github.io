@@ -9,6 +9,7 @@ nav_order: 1
 
 # D3S3: Data-driven and Differentiable Simulations, Surrogates, and Solvers
 #### Workshop @ NeurIPS '24
+##### 15th December 2024, Meeting 116-117, Vancouver Convention Center
 
 Recent advances in Machine Learning highlights promising solutions to aid simulation-based scientific discovery e.g., regulating nuclear fusion, synthesizing new molecules, designing chips.
 Since ML-based techniques are inherently learnable, they offer a promising solution to bridge the simulation-to-real gap and improve accuracy of simulations, and their differentiability addresses inverse problems by backpropagation through the simulation.

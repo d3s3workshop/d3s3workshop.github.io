@@ -34,7 +34,7 @@ We are seeking submissions in topics including, but not limited to:
 
 ## Submission Details
 
-- **Submission system:** Submit on [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/D3S3)
+- **Submission system:** ~~Submit on [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/D3S3)
 - **Format:** NeurIPS single-column. Feel free to use [this template](https://github.com/d3s3workshop/d3s3workshop.github.io/blob/master/template/d3s3_neurips_2024.zip). 
   - The checklist and requirements (e.g., broader impact, open access to data and code) is optional, but encouraged for responsible ML research.
 - **Page limit:** 4 pages, excluding references and appendices
