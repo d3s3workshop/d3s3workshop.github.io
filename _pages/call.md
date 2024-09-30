@@ -26,16 +26,16 @@ We are seeking submissions in topics including, but not limited to:
 
 ## Important Dates
 
-- Submission deadline: ~~August 23~~ August 30 2024, AoE
+- Submission deadline: ~~August 23~~ August 30, 2024, AoE
 - Acceptance notification: ~~September 23~~ September 30, 2024, AoE [^1]
-- Workshop date: December 14 or December 15, 2024
+- Workshop date: December 15, 2024
 
 [^1]: Please let us know asap if your attendance at NeurIPS depends on your submission's acceptance decision (e.g., you need to apply for a visa).
 
 ## Submission Details
 
 - **Submission system:** ~~Submit on [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/D3S3)
-- **Format:** NeurIPS single-column. Feel free to use [this template](https://github.com/d3s3workshop/d3s3workshop.github.io/blob/master/template/d3s3_neurips_2024.zip). 
+- **Template:** NeurIPS single-column. Feel free to use [D3S3 style files](https://github.com/d3s3workshop/d3s3workshop.github.io/blob/master/template/d3s3_neurips_2024.zip). 
   - The checklist and requirements (e.g., broader impact, open access to data and code) is optional, but encouraged for responsible ML research.
 - **Page limit:** 4 pages, excluding references and appendices
 - **Double-blind reviewing:** Authors should anonymize their submissions
@@ -44,6 +44,14 @@ We are seeking submissions in topics including, but not limited to:
 - **Dual-submission policy:** You can submit papers that are under review at another venue (e.g., NeurIPS, other workshops) at the time of submission
 - **Attending the workshop:** Workshop is primarily in-person. If accepted, authors are asked to prepare a poster and if possible, to present it
 
+#### Camera-Ready Instructions
+
+- **Camera-ready submission deadline:** October 15, 2024, AoE
+  - Please resolve any important issues pointed out by reviewers.
+- **Template:** Feel free to use [D3S3 style files](https://github.com/d3s3workshop/d3s3workshop.github.io/blob/master/template/d3s3_neurips_2024.zip). You need to include the `final` option: `\usepackage[final]{d3s3_neurips_2024}`.
+  - The page limit for the main content is still **4 pages**, followed by references, and ending with an optional appendix.
+  - Make sure your paper is deanonymized.
+- **How to upload camera-ready:** Upload a single PDF on [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/D3S3), by clicking Edit → Camera-Ready revision in your submission's page.
 
 ## Questions
 
