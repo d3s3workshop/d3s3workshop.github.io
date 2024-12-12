@@ -14,7 +14,7 @@ nav_order: 1
 Recent advances in Machine Learning highlights promising solutions to aid simulation-based scientific discovery e.g., regulating nuclear fusion, synthesizing new molecules, designing chips.
 Since ML-based techniques are inherently learnable, they offer a promising solution to bridge the simulation-to-real gap and improve accuracy of simulations, and their differentiability addresses inverse problems by backpropagation through the simulation.
 Moreover, advances in novel architectures, optimization, and specialized hardwares might hold key to find better accuracy-speed trade-offs over conventional simulation softwares. 
-Furthermore, probabilistic uncertainty quantification adds functionality for the estimation and control of epistemic, computational, and aleatory uncertainty.
+Furthermore, probabilistic uncertainty quantification adds functionality for the estimation and control of epistemic, computational, and aleatoric uncertainty.
 
 This workshop seeks to bring experts in Machine Learning working on relevant topics (like learnable surrogates, probabilistic simulation, operator-valued models) and connect them with practitioners and researchers in interdisciplinary topics from science (e.g., physics, climate, chemistry) and engineering (e.g., wireless, graphics, manufacturing). The workshop will provide a unique platform for ML and interdisciplinary researchers to expose challenges and opportunities of integrating ML methods and simulation techniques across these diverse domains.
 
@@ -32,6 +32,10 @@ We are seeking submissions in topics including, but not limited to:
 - 2024-Aug-17: Updated submission deadline: 30th August AoE
 - 2024-Aug-08: We are [looking for](/involved) reviewers
 - 2024-Aug-08: Submission details added to [call for papers](/call)
+
+### Resources
+- **Accepted papers (PDFs)**: Available on [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/D3S3)
+- **Livestream/recordings** (available only for registered attendees): [NeurIPS '24 workshop webpage](https://neurips.cc/virtual/2024/workshop/84720)
 
 ---
 
